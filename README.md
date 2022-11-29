@@ -24,6 +24,10 @@ The acceptance criteria is:
 
 Clone the repo and check the code for accessibility standards, also check the github page deployed.
 
+## Submission
+Repo: https://github.com/i-k-dev/challenge-week-01
+Page: https://i-k-dev.github.io/challenge-week-01/
+
 ---
 
 
